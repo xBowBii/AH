@@ -1,6 +1,6 @@
 /*
 _xBwB_RE4Admins = {
-    _xbwb_REUnit = 'O_Soldier_F' createUnit[[0, 0, 0], (createGroup east), (_this select 0), 0.5, "CORPORAL"];
+//no RE for you lol
 };
 
 _xbwb_AlertAdmins {
